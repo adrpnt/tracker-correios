@@ -2,6 +2,7 @@
 
 namespace Correios;
 
+use SoapClient;
 use Correios\TrackException;
 use InvalidArgumentException;
 
